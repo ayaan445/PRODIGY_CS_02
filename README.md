@@ -1,1 +1,1 @@
-# PRODIGY_CS_02
+This tool offers basic image encryption and decryption by manipulating pixel values, allowing users to secure images through pixel swaps or mathematical operations, and then reverse the process to restore the original image.
